@@ -1,0 +1,20 @@
+h1 {
+    font-style: italic;
+    position: absolute;
+    top: 5px;
+    left: 40%;
+
+}
+
+p {
+    word-spacing: 100px;
+    position: absolute;
+    top: 65px;
+    left: 28%;
+}
+
+.photo1 {
+    position: absolute;
+    left: 450px;
+    top: 200px;
+}
